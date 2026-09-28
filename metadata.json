@@ -1,0 +1,7 @@
+{
+  "name": "Mathpad",
+  "description": "Student-friendly homework solver and smart learning companion with step-by-step explanations, practice quizzes, and study topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
